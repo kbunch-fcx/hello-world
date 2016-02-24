@@ -1,2 +1,3 @@
 # hello-world
-Hello world sample
+
+Sample hello world project
